@@ -1,0 +1,49 @@
+{
+    "id": 2500,
+    "productName": "jamon",
+    "productType": "embutidos",
+    "provider": "Zenu",
+    "price": 9999,
+    "quantity": 250"
+
+}
+
+{
+    "id": 2506,
+    "productName": "queso mozzarella",
+    "productType": "queso",
+    "provider": "Colanta",
+    "price": 10900,
+    "quantity": 200"
+
+}
+
+{
+    "id": 2513,
+    "productName": "pollo",
+    "productType": "carnicos",
+    "provider": "McCormick",
+    "price": 19990,
+    "quantity": 135"
+
+}
+
+{
+    "id": 2535,
+    "productName": "yogurth griego",
+    "productType": "lacteo",
+    "provider": "Colfrance",
+    "price": 4990,
+    "quantity": 200"
+
+}
+
+{
+    "id": 2554,
+    "productName": "arroz",
+    "productType": "grano",
+    "provider": "Roa",
+    "price": 1999,
+    "quantity": 2500"
+
+}
